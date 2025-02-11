@@ -47,7 +47,7 @@ READ_MESSAGE: process.env.READ_MESSAGE || "false",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 
-ANTI_BAD: process.env.ANTI_BAD || "false",
+ANTI_BAD: process.env.ANTI_BAD || "true",
 // false or true for anti bad words
 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
